@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+// Completable.java
+// Kendra Fitzgerald
 
 public interface Completable {
+    void complete();
+    boolean isComplete();
 }
